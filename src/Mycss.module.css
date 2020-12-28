@@ -1,0 +1,19 @@
+.surveymainbutton {
+   background-color: #af5f46 !important;
+   width: 120px;
+   margin: 20px;
+   border: 1px solid black;
+}
+.questionContainer {
+   margin: 20px;
+   width: 400px;
+}
+.inpGrp {
+   margin-bottom: 5px;
+}
+.inputQuestion {
+   font-size: 12px;
+   text-align: left;
+   font-weight: bold;
+   margin-top: 5px;
+}
